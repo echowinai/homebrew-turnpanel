@@ -4,7 +4,7 @@ cask "turnpanel" do
   version "26.9.19"
   sha256 "8a313129344774851b3e24af5bfcfac32243d91924d3586e862a13d12641cc9c"
 
-  url "https://alex.research.echo.win/alex/v26.09.19/TurnPanel-#{version}-arm64.zip"
+  url "https://turnpanel.com/download/brew/v26.09.19/TurnPanel-#{version}-arm64.zip"
   name "TurnPanel"
   desc "Local-first AI workspace"
   homepage "https://turnpanel.com/"
